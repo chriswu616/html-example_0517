@@ -1,0 +1,28 @@
+#aside {
+    float: left;
+    width: 200px;
+    height: 150px;
+    background-color: #5CE6B8;
+    margin-right: 3px;
+}
+
+#section1 {
+    overflow: auto;
+    width: 600px;
+    height: 50px;
+    background-color: #47B28F;
+}
+
+#section2 {
+    overflow: auto;
+    width: 600px;
+    height: 50px;
+    background-color: #338066;
+}
+
+#footer {
+    overflow: auto;
+    width: 600px;
+    height: 50px;
+    background-color: #1F4C3D;
+}
